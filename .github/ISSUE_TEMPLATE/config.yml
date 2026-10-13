@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, billing or licence question
+    url: mailto:support@orcraft.app
+    about: Anything that involves your account, an invoice or a machine licence goes by mail, never into a public issue.
