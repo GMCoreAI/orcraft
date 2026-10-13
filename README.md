@@ -18,7 +18,7 @@ Ask any question, report an issue, request a feature: support@orcraft.app.
 ## License
 
 © 2026 GM Core Ltd. All rights reserved.  
-No license is granted to use, modify, or distribute the software.  
+The Orcraft software is provided under the Orcraft Software License Agreement in [LICENSE](LICENSE); its source code is proprietary.  
 Orcraft™ is a trademark of GM Core Ltd. The Orcraft name, logo, and branding assets are proprietary and may not be used without prior written permission.
 
 ## Website
