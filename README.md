@@ -9,13 +9,11 @@ This repository is **public but does not contain source code**.
 The Orcraft source code is proprietary and maintained in private repositories.  
 This repository exists to establish the project identity and may later host:
 - Public documentation
-- Issue tracking
 - Release notes
 
 ## Support
 
-Bugs and feature requests: the [issues](https://github.com/GMCoreAI/orcraft/issues) of this repository.  
-Account, billing or licence questions: support@orcraft.app.
+Ask any question, report an issue, request a feature: support@orcraft.app.
 
 ## License
 
