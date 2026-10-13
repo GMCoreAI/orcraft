@@ -1,0 +1,137 @@
+Orcraft Software License Agreement
+
+Version 1.1, October 2026
+
+This agreement is between you and GM Core Ltd., company number 517377164,
+Yitzhak Shamir 16, Tirat Carmel 3907017, Israel ("we"). It covers the
+Orcraft software: the orcraft package with the controller, the endpoint
+application and the test framework, the Orcraft maze example application
+binaries, and every update to them (together "the Software"). By
+installing or running the Software you accept this agreement. If you use
+the Software on behalf of a company, you accept it for that company and
+confirm that you may do so.
+
+The Terms of Use at https://orcraft.app/legal/terms/ and the Privacy Policy
+at https://orcraft.app/legal/privacy/ are part of this agreement. Where
+they and this document differ, this document applies to the Software.
+
+1. License
+
+Orcraft is a commercial product of GM Core Ltd. and its source code is
+proprietary. We grant you a non-exclusive, non-transferable, revocable
+license to install and run the Software for the purpose of developing and
+running your tests, on the plan you hold and within its limits. The
+Software stays ours; this agreement gives you permission to use it, not
+ownership of it.
+
+2. Restrictions
+
+You may not:
+
+  a. reverse engineer, decompile, disassemble or otherwise try to obtain
+     the source code of the Software, except where the law allows it
+     regardless of this term;
+  b. modify the Software, remove or alter its notices, or circumvent its
+     licensing, activation or sign-in mechanisms;
+  c. redistribute, sell, rent, lease or sublicense the Software, or make it
+     available to third parties as a service;
+  d. use the Software to build a product or service that competes with it;
+  e. use the Software to attack, disrupt or gain access to systems without
+     authorisation, or to break the law;
+  f. use, export, re-export or transfer the Software contrary to the
+     export control and sanctions laws of Israel, the United States or
+     the European Union: to a destination under a comprehensive embargo,
+     to a person or organisation on a sanctions or denied-party list, or
+     for a use those laws prohibit. You confirm that you are not such a
+     person or organisation and do not act for one.
+
+These restrictions apply to the Software and not to the open source
+components it includes, which stay under their own licenses (section 4).
+In particular, nothing in this agreement restricts you from modifying a
+library under the GNU Lesser General Public License, such as Qt through
+PySide6, from reverse engineering the Software to debug such a
+modification, or from running the Software with the modified library.
+
+3. Plans and machine licenses
+
+Plans are described at https://orcraft.app/pricing/. A remote endpoint
+machine is licensed to one account or team at a time, takes one slot when
+a signed-in controller activates it, and gives the slot back when its
+license is revoked. A machine license lasts a limited time and is renewed
+by a signed-in controller. We may refuse or revoke activations that exceed
+a plan or circumvent the counting. A controller running tests on its own
+computer needs no account and no slot.
+
+Machine licenses are renewed through the account service, so a lab
+depends on the service being there. If we stop operating the account
+service, we publish a final release of the Software whose machine
+licenses do not expire and that needs no sign-in to keep running the
+machines you hold, so that every lab keeps running without us. What ends
+then is updates and support, not the Software you run. We tell account
+holders by email before the service ends, and this promise binds anyone
+we transfer Orcraft to.
+
+4. Open source components
+
+The Software includes open source libraries under their own licenses,
+listed with the package. Nothing in this agreement limits the rights those
+licenses give you in those libraries. The controller's user interface is
+built with Qt through PySide6, used under the GNU Lesser General Public
+License, version 3. Qt is installed beside the Software as a separate,
+unmodified library, so you may replace it with your own build of the same
+release.
+
+5. Your tests and data
+
+Your test suites, the systems under test, the results, logs and everything
+else your tests produce are yours. The controller and the endpoint
+application exchange them on your own network, and none of it reaches us.
+We claim no rights over them. You are responsible for that content and for
+the systems your tests act on.
+
+6. Intellectual property
+
+The Software, its documentation, images and text are owned by GM Core Ltd.
+and protected by copyright and other laws. Orcraft is a trademark of
+GM Core Ltd. You may name Orcraft to say that you use it or to describe
+compatibility with it, but not in a way that suggests endorsement, or as
+part of your own product name.
+
+7. No warranty
+
+The Software is provided as it is and as available. We do not promise that
+it is free of errors, that it suits a particular purpose, or that it is
+available without interruption. Test results depend on your tests, your
+systems and your machines; a passing run is not a guarantee that a system
+is correct. To the extent the law allows, we exclude every warranty not
+stated in this agreement.
+
+8. Limitation of liability
+
+To the extent the law allows, we are not liable for indirect or
+consequential loss, for loss of profit, data or business, or for damage to
+systems your tests act on. Our total liability under this agreement is
+limited to the amount you paid us in the twelve months before the claim,
+or, if you paid nothing, to one hundred US dollars. Nothing in this
+agreement limits liability that the law does not allow to be limited.
+
+9. Termination
+
+You may stop using the Software at any time by uninstalling it. This
+license ends automatically if you break this agreement. When it ends, you
+must stop using the Software and remove your copies; machine licenses
+issued to you expire and signed-in controllers are signed out. Sections 2,
+5, 6, 7, 8 and 10 survive termination.
+
+10. Governing law
+
+This agreement is governed by the laws of the State of Israel, where
+GM Core Ltd. is registered, and disputes are brought before the competent
+courts in Israel, without prejudice to protections that the law of your
+own country grants you as a consumer.
+
+11. Contact
+
+Questions about this agreement: contact@orcraft.app
+
+(c) 2026 GM Core Ltd. All rights reserved.
