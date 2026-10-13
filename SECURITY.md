@@ -1,6 +1,6 @@
 # Security
 
-How to report a vulnerability in Orcraft, and what happens with the report. The full text is at https://orcraft.app/security/.
+How to report a vulnerability in Orcraft, and what happens with the report.
 
 ## Reporting a vulnerability
 
