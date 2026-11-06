@@ -1,28 +1,38 @@
 Orcraft Software License Agreement
 
-Version 1.1, October 2026
+Version 1.2, November 2026
 
-This agreement is between you and GM Core Ltd., company number 517377164,
-Yitzhak Shamir 16, Tirat Carmel 3907017, Israel ("we"). It covers the
-Orcraft software: the orcraft package with the controller, the endpoint
-application and the test framework, the Orcraft maze example application
-binaries, and every update to them (together "the Software"). By
-installing or running the Software you accept this agreement. If you use
-the Software on behalf of a company, you accept it for that company and
-confirm that you may do so.
+This agreement is between you and GM Core Ltd., company number
+517377164, Yitzhak Shamir 16, Tirat Carmel 3907017, Israel ("we"). It
+covers the Orcraft software: the orcraft package with the controller,
+the endpoint application and the test framework, the Orcraft maze
+example application binaries, and every update to them (together "the
+Software"). By installing or running the Software you accept this
+agreement. If you use the Software on behalf of a company, you accept it
+for that company and confirm that you may do so.
 
-The Terms of Use at https://orcraft.app/legal/terms/ and the Privacy Policy
-at https://orcraft.app/legal/privacy/ are part of this agreement. Where
-they and this document differ, this document applies to the Software.
+The Orcraft Terms of Use at https://orcraft.app/legal/terms/ govern
+accounts, subscriptions, and related online services. The Privacy Policy
+at https://orcraft.app/legal/privacy/ describes how personal information
+is processed. Where the Terms of Use and this Agreement conflict
+concerning the licensing, installation, or use of the Software, this
+Agreement shall prevail, unless otherwise expressly agreed in writing.
+The Privacy Policy is provided as a separate transparency notice and
+does not independently amend the contractual rights and obligations
+under this Agreement.
 
 1. License
 
-Orcraft is a commercial product of GM Core Ltd. and its source code is
-proprietary. We grant you a non-exclusive, non-transferable, revocable
-license to install and run the Software for the purpose of developing and
-running your tests, on the plan you hold and within its limits. The
-Software stays ours; this agreement gives you permission to use it, not
-ownership of it.
+Orcraft is a proprietary commercial software product owned by GM Core
+Ltd. Subject to compliance with this Agreement and the applicable plan
+limitations, GM Core Ltd. grants you a limited, non-exclusive, non-
+transferable license to install and use the Software for the purpose of
+developing, executing, and managing authorized testing activities. This
+license is terminable in accordance with Section 9 of this Agreement.
+The Software remains the intellectual property of GM Core Ltd. No
+ownership rights are transferred to you under this Agreement. Nothing in
+this section restricts rights granted under applicable licenses
+governing third-party open-source components included with the Software.
 
 2. Restrictions
 
@@ -33,17 +43,32 @@ You may not:
      regardless of this term;
   b. modify the Software, remove or alter its notices, or circumvent its
      licensing, activation or sign-in mechanisms;
-  c. redistribute, sell, rent, lease or sublicense the Software, or make it
-     available to third parties as a service;
-  d. use the Software to build a product or service that competes with it;
-  e. use the Software to attack, disrupt or gain access to systems without
-     authorisation, or to break the law;
-  f. use, export, re-export or transfer the Software contrary to the
-     export control and sanctions laws of Israel, the United States or
-     the European Union: to a destination under a comprehensive embargo,
-     to a person or organisation on a sanctions or denied-party list, or
-     for a use those laws prohibit. You confirm that you are not such a
-     person or organisation and do not act for one.
+  c. redistribute, sell, rent, lease or sublicense the Software, or make
+     it available to third parties as a service;
+  d. unlawfully copy, reproduce, modify, or misappropriate protected
+     elements of the Software for the purpose of developing or
+     distributing another product or service, provided that this
+     restriction shall not prohibit independent development, lawful
+     competition, interoperability, or activities expressly permitted by
+     applicable mandatory law;
+  e. use the Software to attack, disrupt or gain access to systems
+     without authorisation, or to break the law;
+  f. use, export, reexport, transfer, supply, or make the Software
+     available in violation of export-control laws, sanctions, or other
+     trade restrictions applicable to the relevant transaction,
+     including applicable laws of Israel, the United States, and the
+     European Union. You shall not knowingly make the Software available
+     to any prohibited destination, sanctioned or restricted person, or
+     prohibited end user, or use the Software for any purpose prohibited
+     by applicable export-control or sanctions laws. You shall comply
+     with applicable restrictions concerning prohibited military or
+     weapons-related end uses. Upon reasonable request, you shall
+     provide information concerning the intended destination, end user,
+     and end use of the Software where necessary for GM Core Ltd. to
+     assess applicable legal requirements. GM Core Ltd. may refuse or
+     suspend access where reasonably necessary to comply with applicable
+     export-control laws, sanctions, or legally binding distribution
+     restrictions.
 
 These restrictions apply to the Software and not to the open source
 components it includes, which stay under their own licenses (section 4).
@@ -55,80 +80,146 @@ modification, or from running the Software with the modified library.
 3. Plans and machine licenses
 
 Plans are described at https://orcraft.app/pricing/. A remote endpoint
-machine is licensed to one account or team at a time, takes one slot when
-a signed-in controller activates it, and gives the slot back when its
-license is revoked. A machine license lasts a limited time and is renewed
-by a signed-in controller. We may refuse or revoke activations that exceed
-a plan or circumvent the counting. A controller running tests on its own
-computer needs no account and no slot.
+machine is licensed to one account or team at a time, takes one slot
+when a signed-in controller activates it, and gives the slot back when
+its license is revoked. A machine license lasts a limited time and is
+renewed by a signed-in controller. We may refuse or revoke activations
+that exceed a plan or circumvent the counting. A controller running
+tests on its own computer needs no account and no slot.
 
-Machine licenses are renewed through the account service, so a lab
-depends on the service being there. If we stop operating the account
-service, we publish a final release of the Software whose machine
-licenses do not expire and that needs no sign-in to keep running the
-machines you hold, so that every lab keeps running without us. What ends
-then is updates and support, not the Software you run. We tell account
-holders by email before the service ends, and this promise binds anyone
-we transfer Orcraft to.
+Machine licenses are ordinarily renewed through the Orcraft account and
+licensing service. If GM Core Ltd. permanently discontinues that
+service, GM Core Ltd. shall make available, before the planned
+discontinuation, a final version of the Software allowing customers
+holding valid licenses at the time of discontinuation to continue
+operating their existing licensed installations without periodic online
+license renewal. The final version shall preserve the material
+functionality available to the customer immediately before
+discontinuation, subject to applicable law, third-party intellectual
+property rights, and technical limitations inherent in the Software.
+This undertaking does not entitle customers to additional machine
+licenses, future updates, new functionality, maintenance, or technical
+support following discontinuation. GM Core Ltd. shall provide reasonable
+advance notice of planned discontinuation where practicable. In
+connection with any sale or transfer of the Orcraft product line or
+substantially all assets relating to the Software, GM Core Ltd. shall
+require the acquiring entity to expressly assume the continuity
+obligations applicable to existing customers, to the extent such
+assumption is within GM Core Ltd.'s contractual control. Nothing in this
+provision overrides mandatory applicable law, including insolvency
+legislation.
 
 4. Open source components
 
 The Software includes open source libraries under their own licenses,
-listed with the package. Nothing in this agreement limits the rights those
-licenses give you in those libraries. The controller's user interface is
-built with Qt through PySide6, used under the GNU Lesser General Public
-License, version 3. Qt is installed beside the Software as a separate,
-unmodified library, so you may replace it with your own build of the same
-release.
+listed with the package. Nothing in this agreement limits the rights
+those licenses give you in those libraries. The controller's user
+interface is built with Qt through PySide6, used under the GNU Lesser
+General Public License, version 3. Qt is installed beside the Software
+as a separate, unmodified library, so you may replace it with your own
+build of the same release.
+
+In the event of any conflict between this Agreement and the terms of an
+applicable third-party open-source license, the rights granted under
+that open-source license shall prevail with respect to the relevant
+component. Nothing in this Agreement shall prevent the exercise of
+rights that cannot lawfully be restricted under the applicable open-
+source license.
 
 5. Your tests and data
 
-Your test suites, the systems under test, the results, logs and everything
-else your tests produce are yours. The controller and the endpoint
-application exchange them on your own network, and none of it reaches us.
-We claim no rights over them. You are responsible for that content and for
-the systems your tests act on.
+Your test suites, systems under test, test results, logs, and other
+content generated through your testing activities remain yours. GM Core
+Ltd. does not acquire ownership rights in that content. The Software is
+designed so that the controller and endpoint application exchange
+testing information within your own network, without transmitting test
+suites, results, or logs to GM Core Ltd. through the ordinary operation
+of the Software. Account information, licensing identifiers, technical
+metadata, and information voluntarily submitted through customer support
+may be processed separately, as described in the Privacy Policy. You
+remain responsible for your testing activities, the content you create,
+and the systems on which you perform tests.
 
 6. Intellectual property
 
-The Software, its documentation, images and text are owned by GM Core Ltd.
-and protected by copyright and other laws. Orcraft is a trademark of
-GM Core Ltd. You may name Orcraft to say that you use it or to describe
-compatibility with it, but not in a way that suggests endorsement, or as
-part of your own product name.
+The Software, its documentation, images and text are owned by GM Core
+Ltd. and protected by copyright and other laws. Orcraft is a trademark
+of GM Core Ltd. You may name Orcraft to say that you use it or to
+describe compatibility with it, but not in a way that suggests
+endorsement, or as part of your own product name.
 
 7. No warranty
 
-The Software is provided as it is and as available. We do not promise that
-it is free of errors, that it suits a particular purpose, or that it is
-available without interruption. Test results depend on your tests, your
-systems and your machines; a passing run is not a guarantee that a system
-is correct. To the extent the law allows, we exclude every warranty not
-stated in this agreement.
+The Software is provided as it is and as available. We do not promise
+that it is free of errors, that it suits a particular purpose, or that
+it is available without interruption. Test results depend on your tests,
+your systems and your machines; a passing run is not a guarantee that a
+system is correct. To the extent the law allows, we exclude every
+warranty not stated in this agreement. Nothing in this section excludes
+or restricts any warranty, condition, right, or remedy that cannot
+lawfully be excluded or restricted under applicable mandatory law.
 
 8. Limitation of liability
 
-To the extent the law allows, we are not liable for indirect or
-consequential loss, for loss of profit, data or business, or for damage to
-systems your tests act on. Our total liability under this agreement is
-limited to the amount you paid us in the twelve months before the claim,
-or, if you paid nothing, to one hundred US dollars. Nothing in this
-agreement limits liability that the law does not allow to be limited.
+To the maximum extent permitted by applicable law, GM Core Ltd. shall
+not be liable for indirect, incidental, special, consequential, or
+punitive damages arising out of or relating to the Software or this
+Agreement, including loss of profits, anticipated savings, business
+opportunities, or business interruption. To the maximum extent permitted
+by applicable law, GM Core Ltd.'s total aggregate liability arising out
+of or relating to the Software, associated services, or this Agreement,
+whether in contract, tort, negligence, or otherwise, shall not exceed
+the total fees paid by or on behalf of the customer for Orcraft during
+the twelve (12) months immediately preceding the event giving rise to
+the claim. Payments made through an authorized merchant of record shall
+be included when calculating this limitation. Where no fees were paid
+during that period, GM Core Ltd.'s aggregate liability shall not exceed
+USD 100. Nothing in this section excludes or limits liability arising
+from fraud, willful misconduct, or any other liability that cannot
+lawfully be excluded or limited. Nothing in this section shall restrict
+mandatory statutory rights or remedies available to consumers under
+applicable law.
 
 9. Termination
 
-You may stop using the Software at any time by uninstalling it. This
-license ends automatically if you break this agreement. When it ends, you
-must stop using the Software and remove your copies; machine licenses
-issued to you expire and signed-in controllers are signed out. Sections 2,
-5, 6, 7, 8 and 10 survive termination.
+You may stop using the Software at any time by uninstalling it. GM Core
+Ltd. may suspend or terminate your access to the Software and related
+account services in the event of a material breach of this Agreement.
+Where the breach is capable of remedy, GM Core Ltd. shall provide
+written notice specifying the breach and allow fourteen (14) days from
+receipt of such notice for you to remedy it. Notwithstanding the
+foregoing, GM Core Ltd. may immediately suspend access where reasonably
+necessary to address security threats, unauthorized use, deliberate
+circumvention of licensing mechanisms, violations of applicable law, or
+other serious circumstances requiring immediate intervention. GM Core
+Ltd. may terminate the Agreement immediately where a material breach is
+incapable of remedy or where an applicable law requires termination. GM
+Core Ltd. shall exercise its contractual suspension and termination
+rights reasonably and in good faith. Corresponding termination
+provisions in the Terms of Use shall be interpreted consistently with
+this section.
+
+Upon termination, you shall cease using the Software and discontinue any
+use of related machine licenses, except as otherwise required by
+mandatory law. Suspension or termination shall not affect rights or
+obligations accrued before termination. Sections 2, 4, 5, 6, 7, 8 and
+10, together with the continuity undertaking in Section 3 and any other
+provisions intended by their nature to survive termination, shall remain
+effective to the extent applicable.
 
 10. Governing law
 
-This agreement is governed by the laws of the State of Israel, where
-GM Core Ltd. is registered, and disputes are brought before the competent
-courts in Israel, without prejudice to protections that the law of your
-own country grants you as a consumer.
+This Agreement shall be governed by and construed in accordance with the
+laws of the State of Israel, excluding its conflict-of-laws principles.
+For transactions between businesses, the competent courts of Tel Aviv-
+Jaffa, Israel, shall have exclusive jurisdiction over disputes arising
+out of or relating to this Agreement, subject to mandatory applicable
+law. Where the customer qualifies as a consumer under applicable law,
+nothing in this Agreement shall deprive that consumer of mandatory
+statutory protections or jurisdictional rights that cannot lawfully be
+waived by agreement. Nothing in this section shall prevent GM Core Ltd.
+from seeking appropriate interim or injunctive relief from a court
+having jurisdiction over the relevant matter, subject to applicable law.
 
 11. Contact
 
