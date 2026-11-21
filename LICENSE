@@ -1,6 +1,6 @@
 Orcraft Software License Agreement
 
-Version 1.2, November 2026
+Version 1.3, November 2026
 
 This agreement is between you and GM Core Ltd., company number
 517377164, Yitzhak Shamir 16, Tirat Carmel 3907017, Israel ("we"). It
@@ -68,7 +68,11 @@ You may not:
      assess applicable legal requirements. GM Core Ltd. may refuse or
      suspend access where reasonably necessary to comply with applicable
      export-control laws, sanctions, or legally binding distribution
-     restrictions.
+     restrictions. You shall not install, activate or use the Software
+     in Iran, Iraq, Lebanon, Syria or Yemen, or make it available to
+     residents of these countries, including under a free trial or a
+     free plan. This restriction is the policy of GM Core Ltd. and
+     applies in addition to any prohibition under applicable law.
 
 These restrictions apply to the Software and not to the open source
 components it includes, which stay under their own licenses (section 4).
@@ -192,12 +196,17 @@ foregoing, GM Core Ltd. may immediately suspend access where reasonably
 necessary to address security threats, unauthorized use, deliberate
 circumvention of licensing mechanisms, violations of applicable law, or
 other serious circumstances requiring immediate intervention. GM Core
-Ltd. may terminate the Agreement immediately where a material breach is
-incapable of remedy or where an applicable law requires termination. GM
-Core Ltd. shall exercise its contractual suspension and termination
-rights reasonably and in good faith. Corresponding termination
-provisions in the Terms of Use shall be interpreted consistently with
-this section.
+Ltd. may also suspend your access immediately, without prior notice,
+where it reasonably suspects that the country of residence you declared
+is false or misleading, or that your actual location has been
+deliberately concealed, including by a VPN or similar technology used to
+circumvent geographic restrictions. VPN use alone shall not constitute
+grounds for suspension. GM Core Ltd. may terminate the Agreement
+immediately where a material breach is incapable of remedy or where an
+applicable law requires termination. GM Core Ltd. shall exercise its
+contractual suspension and termination rights reasonably and in good
+faith. Corresponding termination provisions in the Terms of Use shall be
+interpreted consistently with this section.
 
 Upon termination, you shall cease using the Software and discontinue any
 use of related machine licenses, except as otherwise required by
